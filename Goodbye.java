@@ -1,5 +1,4 @@
-
-public class Hello
+public class Goodbye
 {
     public static void main()
     {
