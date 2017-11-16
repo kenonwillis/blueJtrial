@@ -4,6 +4,8 @@ public class Goodbye
     {
         System.out.println("Hi Avery, let's see if BlueJ works with Github!");
         System.out.println("Hi Avery, let's see if BlueJ works with Github!");
+        
+         System.out.println("This is new!");
     }
     
 }
